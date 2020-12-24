@@ -1,5 +1,5 @@
 package com.company;
 
-public interface Playable {
+public interface Playable <T> {
     void print();
 }
